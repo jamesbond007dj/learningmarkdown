@@ -10,6 +10,12 @@
   
 Go forward on Coding, or [the worst jobs](https://www.thebalancecareers.com/worst-jobs-in-america-4136433) waiting on the list. 
 
+## You can choose from : ##
+
+- [x] high demandin coding jobs
+- [ ] dying old school jobs
+
+
 
 
 You can use the [editor on GitHub](https://github.com/jamesbond007dj/learningmarkdown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
