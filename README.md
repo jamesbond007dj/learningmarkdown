@@ -3,7 +3,7 @@
 
   ~~Is it hard ?~~
   
-  ** Just _practice_ and try **
+  **Just _practice_ and try**
   
 
 
