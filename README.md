@@ -8,6 +8,7 @@
   if you can not understand,
   > DON'T GIVE UP!!! **Try one more another!!!**
   
+Go forward on Coding, or [the worst jobs](https://www.thebalancecareers.com/worst-jobs-in-america-4136433) waiting on the list. 
 
 
 
