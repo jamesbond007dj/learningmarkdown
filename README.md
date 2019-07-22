@@ -12,10 +12,11 @@ Go forward on Coding, or [the worst jobs](https://www.thebalancecareers.com/wors
 
 ## You can choose from : ##
 
-- [x] high demandin coding jobs :+1:
+- [x] high demand coding jobs :+1:
 - [ ] dying old school jobs :-1:
 
 ```high demanding coding jobs
-Syntax highlighted code block
 
+### [high demand coding](https://www.techrepublic.com/article/the-10-most-in-demand-tech-jobs-of-2019/) 
 
+```
