@@ -3,7 +3,10 @@
 
   ~~Is it hard ?~~
   
-  **Just _practice_ and try** if you can not understand, > DON'T GIVE UP!!!
+  **Just _practice_ and try** 
+  
+  if you can not understand,
+  > DON'T GIVE UP!!!
   
 
 
