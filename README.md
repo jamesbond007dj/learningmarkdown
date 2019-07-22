@@ -17,7 +17,7 @@ Go forward on Coding, or [the worst jobs](https://www.thebalancecareers.com/wors
 
 ```high demanding coding jobs
 
-[ high demand coding ](https://www.techrepublic.com/article/the-10-most-in-demand-tech-jobs-of-2019/) 
+[ high demand coding jobs ](https://www.techrepublic.com/article/the-10-most-in-demand-tech-jobs-of-2019/) 
 
 ```
 [find here high demand coding jobs ](https://www.techrepublic.com/article/the-10-most-in-demand-tech-jobs-of-2019/) 
