@@ -12,8 +12,13 @@ Go forward on Coding, or [the worst jobs](https://www.thebalancecareers.com/wors
 
 ## You can choose from : ##
 
-- [x] high demandin coding jobs
+- [x] high demandin coding jobs :+1:
 - [ ] dying old school jobs
+
+```high demanding coding jobs
+Syntax highlighted code block
+
+
 
 
 
