@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+### How to Learn
+# _"MARKDOWN"
+Is it hard ?
+
+
 
 You can use the [editor on GitHub](https://github.com/jamesbond007dj/learningmarkdown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
