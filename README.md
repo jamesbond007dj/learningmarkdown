@@ -6,7 +6,7 @@
   **Just _practice_ and try** 
   
   if you can not understand,
-  > DON'T GIVE UP!!! ***Try one more another!!!
+  > DON'T GIVE UP!!! **Try one more another!!!**
   
 
 
