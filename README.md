@@ -1,6 +1,10 @@
 ### How to Learn
 # _MARKDOWN_
-Is it hard ?
+
+  ~~Is it hard ?~~
+  
+  ** Just _practice_ and try **
+  
 
 
 
